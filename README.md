@@ -1,4 +1,4 @@
-# Quiz - How well do you know me
+How well do you know me
 
 Its a quiz about me . you can play the quiz here
 
